@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ec296df-965e-4df1-bf64-d26df3f7a169" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2f7xKvhhMdU7LI4UDo4CYdCHeNz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../apitest2226" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\apitest26\test\case\user" />
+      <recent name="E:\apitest26\test\suit" />
+      <recent name="E:\apitest26\report" />
+      <recent name="E:\apitest26\log" />
+      <recent name="E:\apitest26\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\apitest26" />
+      <recent name="E:\apitest26\xzs 注册 登录（数据驱动）日志" />
+      <recent name="E:\apitest26\发送邮件" />
+      <recent name="E:\apitest26\xzs 注册 登录（数据驱动）" />
+      <recent name="E:\apitest26\xzs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run_all">
+    <configuration name="递归" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Apitest26" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/递归.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="config" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Apitest26" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/config" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/config/config.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_all" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Apitest26" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_all.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_suit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Apitest26" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/suit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/suit/test_suit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in basecase.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Apitest26" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/case/basecase.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test_suit" />
+      <item itemvalue="Python.run_all" />
+      <item itemvalue="Python.递归" />
+      <item itemvalue="Python.config" />
+      <item itemvalue="Python tests.Unittests in basecase.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_all" />
+        <item itemvalue="Python.config" />
+        <item itemvalue="Python tests.Unittests in basecase.py" />
+        <item itemvalue="Python.递归" />
+        <item itemvalue="Python.test_suit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ec296df-965e-4df1-bf64-d26df3f7a169" name="Default Changelist" comment="" />
+      <created>1713165857645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713165857645</updated>
+      <workItem from="1713165859122" duration="6159000" />
+      <workItem from="1713235006731" duration="1113000" />
+      <workItem from="1713335789247" duration="6963000" />
+      <workItem from="1713420167090" duration="4229000" />
+      <workItem from="1713507711563" duration="8470000" />
+      <workItem from="1713765178865" duration="11623000" />
+      <workItem from="1713831888250" duration="8773000" />
+      <workItem from="1713938038721" duration="10923000" />
+      <workItem from="1714004544079" duration="5277000" />
+      <workItem from="1714111513086" duration="10280000" />
+      <workItem from="1714177244721" duration="8360000" />
+      <workItem from="1714283615404" duration="8603000" />
+      <workItem from="1714370232938" duration="10693000" />
+      <workItem from="1714975317020" duration="18000" />
+      <workItem from="1714975556800" duration="123000" />
+      <workItem from="1714975830714" duration="16000" />
+      <workItem from="1714978320374" duration="1166000" />
+      <workItem from="1714979803904" duration="5157000" />
+      <workItem from="1715041467807" duration="9862000" />
+      <workItem from="1715217484105" duration="2420000" />
+      <workItem from="1715320599017" duration="9121000" />
+      <workItem from="1715331212170" duration="2056000" />
+      <workItem from="1715386748457" duration="8703000" />
+      <workItem from="1715579422626" duration="3506000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_for_test_xzs_readexcel_reg_MyTestCase_test_reg_ok.coverage" NAME="Unittests for test_xzs_readexcel_reg.MyTestCase.test_reg_ok Coverage Results" MODIFIED="1713947935711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_for_test_p2p_reg_MyTestCase_test_reg_err.coverage" NAME="Unittests for test_p2p_reg.MyTestCase.test_reg_err Coverage Results" MODIFIED="1713832675050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p2p" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_for_test_xzs_readexcel_login_MyTestCase_test_login_err2.coverage" NAME="Unittests for test_xzs_readexcel_login.MyTestCase.test_login_err2 Coverage Results" MODIFIED="1713948987897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apitest26$send_email_base.coverage" NAME="send_email_base Coverage Results" MODIFIED="1714378816472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" />
+    <SUITE FILE_PATH="coverage/Apitest26$Unittests_for_test_user_reg1_test_user_reg_test_user_reg_fail.coverage" NAME="Unittests for test_user_reg1.test_user_reg.test_user_reg_fail Coverage Results" MODIFIED="1715046706810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case/user" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_for_testxzssuit_MyTestCase.coverage" NAME="Unittests for testxzssuit.MyTestCase Coverage Results" MODIFIED="1713775738099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xzs" />
+    <SUITE FILE_PATH="coverage/apitest26$xzs_login.coverage" NAME="xzs_login Coverage Results" MODIFIED="1714375563560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_for_testxzssuit_MyTestCase_test_discover.coverage" NAME="Unittests for testxzssuit.MyTestCase.test_discover Coverage Results" MODIFIED="1713773184771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xzs" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_in_test_xzs_readexcel_login1_py.coverage" NAME="Unittests in test_xzs_readexcel_login1.py Coverage Results" MODIFIED="1714112998704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xzs 注册 登录（数据驱动）" />
+    <SUITE FILE_PATH="coverage/apitest26$read_excel.coverage" NAME="read_excel Coverage Results" MODIFIED="1713948963413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_for_testxzssuit_MyTestCase_test_makesuit.coverage" NAME="Unittests for testxzssuit.MyTestCase.test_makesuit Coverage Results" MODIFIED="1713775984573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xzs" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_in_test_xzs_readexcel_login2_py.coverage" NAME="Unittests in test_xzs_readexcel_login2.py Coverage Results" MODIFIED="1714380671005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case/user" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_in_test_xzs_reg_py.coverage" NAME="Unittests in test_xzs_reg.py Coverage Results" MODIFIED="1713519052555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_in_run_all_py.coverage" NAME="Unittests in run_all.py Coverage Results" MODIFIED="1714293389871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xzs 注册 登录（数据驱动）日志" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_for_test_xzs_reg_MyTestCase_test_reg_ok.coverage" NAME="Unittests for test_xzs_reg.MyTestCase.test_reg_ok Coverage Results" MODIFIED="1714116107317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apitest26$get.coverage" NAME="带参数的get请求 Coverage Results" MODIFIED="1713167004845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_in_test_xzs_readexcel_reg_py.coverage" NAME="Unittests in test_xzs_readexcel_reg.py Coverage Results" MODIFIED="1714380654515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case/user" />
+    <SUITE FILE_PATH="coverage/Apitest26$Unittests_in_run_all_py.coverage" NAME="Unittests in run_all.py Coverage Results" MODIFIED="1714979993679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apitest26$post_json.coverage" NAME="post请求-json Coverage Results" MODIFIED="1713168589344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_for_test_p2p_reg_MyTestCase_test_add_ok.coverage" NAME="Unittests for test_p2p_reg.MyTestCase.test_add_ok Coverage Results" MODIFIED="1713838331524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p2p" />
+    <SUITE FILE_PATH="coverage/Apitest26$Unittests_for_test_user_login_test_user_login.coverage" NAME="Unittests for test_user_login.test_user_login Coverage Results" MODIFIED="1714987830166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case/user" />
+    <SUITE FILE_PATH="coverage/apitest26$pymysqldb.coverage" NAME="pymysqldb Coverage Results" MODIFIED="1713776871292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p2p" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_for_test_xzs_readexcel_reg_MyTestCase.coverage" NAME="Unittests for test_xzs_readexcel_reg.MyTestCase Coverage Results" MODIFIED="1713947196445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_for_test_xzs_readexcel_login_MyTestCase.coverage" NAME="Unittests for test_xzs_readexcel_login.MyTestCase Coverage Results" MODIFIED="1713948168128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_for_test_xzs_readexcel_login_MyTestCase_test_reg_err1.coverage" NAME="Unittests for test_xzs_readexcel_login.MyTestCase.test_reg_err1 Coverage Results" MODIFIED="1714005611247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_in_testlogin_py.coverage" NAME="Unittests in testlogin.py Coverage Results" MODIFIED="1713422686075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11" />
+    <SUITE FILE_PATH="coverage/apitest26$config__1_.coverage" NAME="config (1) Coverage Results" MODIFIED="1714378555477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/Apitest26$test_suit.coverage" NAME="test_suit Coverage Results" MODIFIED="1715047142502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/suit" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_for_testxzssuit_MyTestCase_test_suit.coverage" NAME="Unittests for testxzssuit.MyTestCase.test_suit Coverage Results" MODIFIED="1714379941997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/suit" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_in_test_xzs_login_py.coverage" NAME="Unittests in test_xzs_login.py Coverage Results" MODIFIED="1714380123741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case/user" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_for_test_p2p_reg_MyTestCase_test_reg_ok.coverage" NAME="Unittests for test_p2p_reg.MyTestCase.test_reg_ok Coverage Results" MODIFIED="1713834060500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p2p" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_for_testxzssuit_MyTestCase_test_loader.coverage" NAME="Unittests for testxzssuit.MyTestCase.test_loader Coverage Results" MODIFIED="1713774863312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xzs" />
+    <SUITE FILE_PATH="coverage/Apitest26$Unittests_for_test_user_login_test_user_login_test_login_success.coverage" NAME="Unittests for test_user_login.test_user_login.test_login_success Coverage Results" MODIFIED="1714987549667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case/user" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_for_test_p2p_reg_MyTestCase_test_add_err.coverage" NAME="Unittests for test_p2p_reg.MyTestCase.test_add_err Coverage Results" MODIFIED="1713840271472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p2p" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_in_test_p2p_reg_py.coverage" NAME="Unittests in test_p2p_reg.py Coverage Results" MODIFIED="1713939131041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p2p" />
+    <SUITE FILE_PATH="coverage/apitest26$db.coverage" NAME="db Coverage Results" MODIFIED="1713834256438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p2p" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_for_testlogin_MyTestCase_test_login_err01.coverage" NAME="Unittests for testlogin.MyTestCase.test_login_err01 Coverage Results" MODIFIED="1713423119167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xzs" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_in_test_xzs_readexcel_login_py.coverage" NAME="Unittests in test_xzs_readexcel_login.py Coverage Results" MODIFIED="1714008079718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xzs 注册 登录（数据驱动）" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_for_test_xzs_reg_MyTestCase.coverage" NAME="Unittests for test_xzs_reg.MyTestCase Coverage Results" MODIFIED="1713518551027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_for_test_xzs_readexcel_login_MyTestCase_test_login_ok.coverage" NAME="Unittests for test_xzs_readexcel_login.MyTestCase.test_login_ok Coverage Results" MODIFIED="1714008015200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xzs 注册 登录（数据驱动）" />
+    <SUITE FILE_PATH="coverage/Apitest26$config.coverage" NAME="config Coverage Results" MODIFIED="1715396180896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_for_testlogin_MyTestCase_test_login_err02.coverage" NAME="Unittests for testlogin.MyTestCase.test_login_err02 Coverage Results" MODIFIED="1713423074609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xzs" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_for_test_xzs_readexcel_login_MyTestCase_test_reg_err3.coverage" NAME="Unittests for test_xzs_readexcel_login.MyTestCase.test_reg_err3 Coverage Results" MODIFIED="1714005355181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apitest26$send_email_att.coverage" NAME="send_email_att Coverage Results" MODIFIED="1714378798757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_in_testlogin_py__1_.coverage" NAME="Unittests in testlogin.py (1) Coverage Results" MODIFIED="1713423133902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xzs" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_in_testxzssuit_py.coverage" NAME="Unittests in testxzssuit.py Coverage Results" MODIFIED="1714380371074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/suit" />
+    <SUITE FILE_PATH="coverage/Apitest26$send_email.coverage" NAME="send_email Coverage Results" MODIFIED="1714979986855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" />
+    <SUITE FILE_PATH="coverage/Apitest26$run_all.coverage" NAME="run_all Coverage Results" MODIFIED="1715396747735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_in_unittestdemo_py.coverage" NAME="Unittests in unittestdemo.py Coverage Results" MODIFIED="1713341771512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_for_test_xzs_readexcel_login_MyTestCase_test_login_err.coverage" NAME="Unittests for test_xzs_readexcel_login.MyTestCase.test_login_err Coverage Results" MODIFIED="1713947513856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apitest26$config.coverage" NAME="config Coverage Results" MODIFIED="1714293668526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xzs 注册 登录（数据驱动）日志" />
+    <SUITE FILE_PATH="coverage/apitest26$post_.coverage" NAME="post请求-传统表单 Coverage Results" MODIFIED="1713168169253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_for_test_xzs_reg_MyTestCase_test_reg_err.coverage" NAME="Unittests for test_xzs_reg.MyTestCase.test_reg_err Coverage Results" MODIFIED="1713518562175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apitest26$TPshopget.coverage" NAME="TPshop带参数的get请求 Coverage Results" MODIFIED="1713173169330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apitest26$send_email.coverage" NAME="send_email Coverage Results" MODIFIED="1714378771365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_in_run_all_py__1_.coverage" NAME="Unittests in run_all.py Coverage Results" MODIFIED="1714381757346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Apitest26$Unittests_in_test_user_login_py.coverage" NAME="Unittests in test_user_login.py Coverage Results" MODIFIED="1715046681852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case/user" />
+    <SUITE FILE_PATH="coverage/Apitest26$Unittests_in_basecase_py.coverage" NAME="Unittests in basecase.py Coverage Results" MODIFIED="1715332079580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/case" />
+    <SUITE FILE_PATH="coverage/apitest26$Unittests_for_test_xzs_readexcel_login_MyTestCase_test_login_err3.coverage" NAME="Unittests for test_xzs_readexcel_login.MyTestCase.test_login_err3 Coverage Results" MODIFIED="1713950868140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Apitest26$.coverage" NAME="递归 Coverage Results" MODIFIED="1715218684603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" />
+  </component>
+</project>
